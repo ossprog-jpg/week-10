@@ -1,0 +1,10 @@
+Pistol
+Oar
+Plastic Knife
+Laser Gun
+Battle Axe
+Katana
+Hammer
+Crossbow
+Baseball Bat
+Spear
